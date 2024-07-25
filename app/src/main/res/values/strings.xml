@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">No Internet</string>
+    <string name="block">This device is kosher, and can\'t acsess to the internet</string>
+</resources>

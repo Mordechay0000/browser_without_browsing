@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">אין גישה לאינטרנט</string>
+    <string name="block">מכשיר זה מוגן, ואי אפשר לגשת באמצעותו לאינטרנט</string>
+</resources>
